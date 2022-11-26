@@ -1,4 +1,13 @@
 # grupo_4_mahuida
+Mahuida es un sitio dedicado a ofrecer un servicio para el amante de la naturaleza el riesgo de la montaña y el outdoor. En nuestro catalago podra encontrar mas de mil productos de tracking, montañismo, training, indumentaria, calzados, carpas, bolsas de dormir, accesorios, etc.
+
+Nuestro publico de todas las edades que desafian sus miedos y con ganas de ir mas alla, para eso creamos Mahuida donde con la facilidad de un click estas mas cerca de tu aventura soñada.
+
+## Integrantes
+
+- Federico Simón (descripcion?)
+- Nicolas Aued 
+- Fabiana Onesti
 - Tomas Bourquin
 - Ayelén Pérez
 - Flores, Victoria???
