@@ -8,7 +8,7 @@ Nuestro publico de todas las edades que desafian sus miedos y con ganas de ir ma
 - Federico Simón (descripcion?)
 - Nicolas Aued
 - Claudia Arreygada: Vivo en Quilmes y trabajo como profesora de diseño gráfico en un Centro de Formación profesional en Almagro. También trabajo haciendo catering, eventos y animación. Me gusta mucho viajar. Mi hobbie es bailar, en este momento estoy aprendiendo danzas árabes.
-- Fabiana Onesti
+- Fabiana Onesti: Soy del barrio de Caballito en CABA, vivo con mis dos hijos Julián y Facundo y mi marido Jorge. Enseño diseño gráfico en general, y web sólo en wordpress de una forma totalmente visual, sin escribir códigos, por eso me pidieron del trabajo que me capacite. Me gusta comer, pasear, escuchar música y pasar tiempo con mi familia.
 - Tomas Bourquin
 - Ayelén Pérez
 - Flores, Victoria???
@@ -19,7 +19,7 @@ Nuestro publico de todas las edades que desafian sus miedos y con ganas de ir ma
 E-commerce de venta de productos similares a lo que proponemos en Mahuida, principal inspiracion.
 - https://www.montagne.com.ar/
 E-commerce donde el diseño de su home principal el uso de la paleta de colores y diseño es una de las principal inspiracion
-
+wor
 -  https://patagonia-ar.com/
 - https://www.salomonstore.com.ar/ (Nos inspira la estetica y vistas de este sitio)
 - https://www.mountaintrekking.com.ar/ (Sitio de indumentaria y las agrupa por tipo de actividad)
