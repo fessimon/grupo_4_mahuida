@@ -6,7 +6,8 @@ Nuestro publico de todas las edades que desafian sus miedos y con ganas de ir ma
 ## Integrantes
 
 - Federico Simón (descripcion?)
-- Nicolas Aued 
+- Nicolas Aued
+- Claudia Arreygada: Vivo en Quilmes y trabajo como profesora de diseño gráfico en un Centro de Formación profesional en Almagro. También trabajo haciendo catering, eventos y animación. Me gusta mucho viajar. Mi hobbie es bailar, en este momento estoy aprendiendo danzas árabes.
 - Fabiana Onesti
 - Tomas Bourquin
 - Ayelén Pérez
