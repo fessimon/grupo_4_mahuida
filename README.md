@@ -10,8 +10,6 @@ Nuestro publico de todas las edades que desafian sus miedos y con ganas de ir ma
 - Claudia Arreygada: Vivo en Quilmes y trabajo como profesora de diseño gráfico en un Centro de Formación profesional en Almagro. También trabajo haciendo catering, eventos y animación. Me gusta mucho viajar. Mi hobbie es bailar, en este momento estoy aprendiendo danzas árabes.
 - Fabiana Onesti: Soy del barrio de Caballito en CABA, vivo con mis dos hijos Julián y Facundo y mi marido Jorge. Enseño diseño gráfico en general, y web sólo en wordpress de una forma totalmente visual, sin escribir códigos, por eso me pidieron del trabajo que me capacite. Me gusta comer, pasear, escuchar música y pasar tiempo con mi familia.
 - Tomas Bourquin
-- Ayelén Pérez
-- Flores, Victoria???
 
 ## Sitios de referencia
 
