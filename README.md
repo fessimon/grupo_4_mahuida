@@ -21,6 +21,7 @@ wor]
 - (https://www.mountaintrekking.com.ar/) [Sitio de indumentaria y las agrupa por tipo de actividad]
 - (https://www.campingcenter.com.ar/) [Inspiramos en su estética al principio]
 
-
+Tableros de tareas hechas y planificadas en trello: en el siguiente enlace
+https://trello.com/invite/b/AptWk7tH/ATTIb8e1d863fbfa4e3d293db6bf57867cd913FF1700/tareas-de-creacion-para-el-ecommerce
 
 ###End
